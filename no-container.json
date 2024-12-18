@@ -1,0 +1,25 @@
+{
+  "containers": {},
+  "scoped-variables": [
+    {
+      "access": {
+        "env_variable": {
+          "key": "EXPO_TOKENS"
+        }
+      },
+      "identifier": "expo-tokens",
+      "scope": {
+        "containers": {
+          "global": true
+        }
+      },
+      "source": {
+        "details": {
+          "value": "helloworld"
+        },
+        "type": "raw"
+      }
+    }
+  ],
+  "version": "1.0
+}
